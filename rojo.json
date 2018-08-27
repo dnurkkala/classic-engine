@@ -1,0 +1,10 @@
+{
+  "name": "classic-engine",
+  "servePort": 8000,
+  "partitions": {
+  	"src": {
+  		"path": "src",
+  		"target": "ReplicatedStorage.Classes"
+  	}
+  }
+}
